@@ -1,0 +1,1 @@
+Hello world, Starting Odin from scratch.
